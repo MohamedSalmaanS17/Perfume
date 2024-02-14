@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.overall{
+    background-color: wheat;
+    
+}
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+
+.header{
+    padding: 10px;
+}
+
+li,ul,h1{
+    display: inline;
+}
+
+ul{
+    margin-left: 60%;
+}
+li:hover {
+    color: grey;
+    cursor: pointer;
+}
+
+.search{
+    text-align: center;
+    margin: 20px;
+}
+
+input{
+    margin: 20px;
+    padding: 15px;
+    width: 60%;
+}
+
+.product{
+    text-align: center;
+}
+
+.box{
+    padding: 10px;
+    border: 2px black solid;
+    width: 220px;
+    display: inline-block;
+    background: blueviolet;
+    margin-right: 12px;
+}
+
+.about{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.contect{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+
